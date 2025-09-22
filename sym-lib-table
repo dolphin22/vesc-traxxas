@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DRV8305N")(type "KiCad")(uri "${KIPRJMOD}/ul_DRV8305NQPHPQ1/KiCADv6/2025-09-02_11-10-13.kicad_sym")(options "")(descr ""))
+)
